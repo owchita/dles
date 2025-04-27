@@ -13,6 +13,8 @@
 
 ## Trivia
 * Disorderly: https://playdisorderly.com/
+* Justaxstat: https://urbanstats.org/quiz.html
+* Scrandle: https://scrandle.com/
 
 ## Audio-based
 * Bandle: https://bandle.app/
