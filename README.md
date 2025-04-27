@@ -10,6 +10,7 @@
 * Globle: https://globle-game.com/
 * OpenGuessr: https://openguessr.com/
 * TimeGuessr: https://timeguessr.com/
+* FoodGuessr: https://www.foodguessr.com/
 
 ## Trivia
 * Disorderly: https://playdisorderly.com/
