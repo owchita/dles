@@ -17,6 +17,10 @@
 * Justaxstat: https://urbanstats.org/quiz.html
 * Scrandle: https://scrandle.com/
 
+## Classics
+* Solitaire: https://solitaired.com/?game-of-the-day=true
+* Minesweeper: https://minesweeper.online/quests
+
 ## Audio-based
 * Bandle: https://bandle.app/
 * Spell Check: https://spellcheckgame.com/
