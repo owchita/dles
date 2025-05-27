@@ -24,3 +24,6 @@
 ## Audio-based
 * Bandle: https://bandle.app/
 * Spell Check: https://spellcheckgame.com/
+
+## Miscellaneous
+* Kinda Hard Golf: https://kindahardgolf.com/
