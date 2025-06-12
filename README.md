@@ -11,11 +11,11 @@
 * OpenGuessr: https://openguessr.com/
 * TimeGuessr: https://timeguessr.com/
 * FoodGuessr: https://www.foodguessr.com/
+* Scrandle: https://scrandle.com/
 
 ## Trivia
 * Disorderly: https://playdisorderly.com/
 * Justaxstat: https://urbanstats.org/quiz.html
-* Scrandle: https://scrandle.com/
 
 ## Classics
 * Solitaire: https://solitaired.com/?game-of-the-day=true
