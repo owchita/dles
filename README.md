@@ -1,4 +1,4 @@
-# DLE Games
+# The DLES
 
 ## Words
 * Bracket City: https://www.theatlantic.com/games/bracket-city/
