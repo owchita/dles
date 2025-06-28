@@ -21,6 +21,7 @@
 ## Food
 * FoodGuessr: https://www.foodguessr.com/
 * Scrandle: https://scrandle.com/
+* Costcole: https://costcodle.com/
 
 ## Trivia
 * Bandle: https://bandle.app/
