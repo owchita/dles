@@ -5,7 +5,6 @@
 * Raddle: https://raddle.quest/
 * Spell Check: https://spellcheckgame.com/
 * Strands: https://www.nytimes.com/games/strands/
-* The Mini: https://www.nytimes.com/crosswords/game/mini/
 * Word Grid: https://wordgrid.clevergoat.com/
 * Wordle: https://www.nytimes.com/games/wordle/index.html/
 
