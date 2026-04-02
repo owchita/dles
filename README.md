@@ -20,13 +20,14 @@
 ## Food
 * FoodGuessr: https://www.foodguessr.com/
 * Scrandle: https://scrandle.com/
-* Costcole: https://costcodle.com/
+* Costcodle: https://costcodle.com/
 
 ## Trivia
 * Bandle: https://bandle.app/
 * Catfishing: https://catfishing.net/
 * Disorderly: https://playdisorderly.com/
 * Justaxstat: https://urbanstats.org/quiz.html
+* More/Less: https://lessgames.com/moreless
 
 ## Miscellaneous
 * Angle: https://angle.wtf/
