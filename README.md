@@ -21,3 +21,4 @@
 * Bandle: https://bandle.app/
 * Catfishing: https://catfishing.net/
 * More/Less: https://lessgames.com/moreless
+* Plain Game: https://plaingame.fun/
