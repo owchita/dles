@@ -8,6 +8,7 @@
 * Wordle: https://www.nytimes.com/games/wordle/index.html/
 
 ## Geography and History
+* EraGuessr: https://eraguessr.ai/play/daily
 * Globle: https://globle-game.com/
 * OpenGuessr: https://openguessr.com/
 * TimeGuessr: https://timeguessr.com/
