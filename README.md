@@ -21,4 +21,5 @@
 ## Trivia
 * Bandle: https://bandle.app/
 * Catfishing: https://catfishing.net/
+* Krillion: https://krillion.io/
 * More/Less: https://lessgames.com/moreless
