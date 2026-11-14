@@ -2,11 +2,11 @@
 
 ## Words
 * Bracket City: https://www.theatlantic.com/games/bracket-city/
+* Fridgle: https://fridgle.net
 * Raddle: https://raddle.quest/
 * Strands: https://www.nytimes.com/games/strands/
 * Word Grid: https://wordgrid.clevergoat.com/
 * Wordle: https://www.nytimes.com/games/wordle/index.html/
-* Fridgle: https://fridgle.net
 
 ## Geography and History
 * Globle: https://globle-game.com/
