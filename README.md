@@ -1,7 +1,6 @@
 # The DLES
 
 ## Words
-* Bracket City: https://www.theatlantic.com/games/bracket-city/
 * Fridgle: https://fridgle.net
 * Raddle: https://raddle.quest/
 * Strands: https://www.nytimes.com/games/strands/
