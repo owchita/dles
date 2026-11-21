@@ -1,4 +1,4 @@
-# The DLES
+# The DLEs
 
 ## Words
 * Fridgle: https://fridgle.net
